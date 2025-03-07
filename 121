@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>夏日泳技UP！3天get美人鱼同款自由泳✨</title>
+    <style>
+        .container { max-width: 600px; margin: auto; padding: 20px; }
+        .section { margin: 30px 0; background: #fff; border-radius: 15px; padding: 20px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        h2 { color: #ff6b6b; border-left: 5px solid #4ecdc4; padding-left: 10px; }
+        img { width: 100%; border-radius: 10px; margin: 15px 0; }
+        .tips { background: #f8f9fa; padding: 15px; border-radius: 10px; }
+        .emoji { font-size: 24px; margin-right: 5px; }
+        .hashtag { color: #4ecdc4; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🌊零基础自由泳攻略｜让游泳教练失业的3个神仙技巧！</h1>
+        
+        <div class="section">
+            <h2>🏊♀️ 课前准备</h2>
+            <img src="https://example.com/swim-gear.jpg" alt="游泳装备摆拍">
+            <p>✨必备清单：<br>
+            - 竞速泳衣（拒绝裙摆！）<br>
+            - 泳镜+泳帽（防雾神器安排）<br>
+            - 浮板（新手保命装备）<br>
+            - 运动耳机（水下BGM走起）</p>
+        </div>
+
+        <div class="section">
+            <h2>💦 核心动作分解</h2>
+            <div class="tips">
+                <p>📌记住口诀：转头呼吸像特工｜划手要画S｜打腿频率2.0</p>
+            </div>
+
+            <h3>👐 手臂动作（附灵魂示意图）</h3>
+            <img src="https://example.com/arm-stroke.jpg" alt="手臂划水分解图">
+            <p>1. 入水：指尖先入水<br>
+            2. 抱水：划个大写的问号❓<br>
+            3. 推水：推到裤缝线位置</p>
+
+            <h3>🦵 腿功修炼</h3>
+            <img src="https://example.com/leg-kick.jpg" alt="打腿教学">
+            <p>🔹错误示范：整条腿用力×<br>
+            🔹正确姿势：大腿带动小腿，鞭状打水√</p>
+        </div>
+
+        <div class="section">
+            <h2>💡 常见问题急救包</h2>
+            <p>❌换气喝水：<br>
+            → 单臂扶板侧呼吸练习<br>
+            ❌游不直：<br>
+            → 视线盯池底黑线<br>
+            ❌肩膀痛：<br>
+            → 减少入水过中线</p>
+            <img src="https://example.com/breath-tips.jpg" alt="换气技巧图解">
+        </div>
+
+        <div class="section">
+            <p class="hashtag">#自由泳 #游泳教程 #见人不如健身 #解锁新技能</p>
+            <p>🎉下期预告：《水下拍摄pose大全》+《游泳不脱妆秘籍》<br>
+            💬互动话题：你学游泳时闹过什么可爱糗事？评论区见！</p>
+            <img src="https://example.com/swim-gif.gif" alt="学员成果展示">
+        </div>
+    </div>
+</body>
+</html>
